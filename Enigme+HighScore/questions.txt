@@ -1,0 +1,10 @@
+What was the primary encryption machine used by Nazi Germany during WWII?|Enigma|Lorenz|Typex
+Which Allied country first cracked the Enigma code?|United States|United Kingdom*|Soviet Union
+What was the name of the team that worked on breaking the Enigma code at Bletchley Park?|The Black Chamber|The Codebreakers|The Ultra Team*
+What was the role of Alan Turing in breaking the Enigma code?|He designed the Enigma machine|He led the team at Bletchley Park*|He was a spy in Germany
+What was the name of the machine designed by Alan Turing to help break Enigma?|Colossus|Bombe*|Lorenz SZ40
+Which of these was a weakness in the Enigma machine's encryption?|It used only numbers|The same letter could not be encrypted as itself*|It had no rotors
+How many rotors did the standard Enigma machine have?|3*|4|5
+What was the key setting used to encrypt a message on the Enigma machine called?|Cipher Key|Daily Key*|Rotor Key
+Which of these was a method used to increase the security of Enigma messages?|Using more rotors*|Using fewer rotors|Using the same settings every day
+What was the name of the Polish mathematicians who first broke an early version of Enigma?|The Warsaw Group|The Cipher Bureau*|The Krakow Circle
